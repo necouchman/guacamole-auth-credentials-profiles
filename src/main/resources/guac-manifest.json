@@ -1,0 +1,11 @@
+{
+    "guacamoleVersion" : "1.0.0",
+
+    "name"             : "Guacamole Credentials Profiles",
+    "namespace"        : "credential-profiles",
+
+    "authProviders"    : [
+        "org.apache.guacamole.auth.profiles.CredentialsProfilesProvider"
+    ]
+
+}
