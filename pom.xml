@@ -24,10 +24,10 @@
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.apache.guacamole</groupId>
-    <artifactId>guacamole-auth-template</artifactId>
+    <artifactId>guacamole-auth-credentials-profiles</artifactId>
     <packaging>jar</packaging>
     <version>1.0.0</version>
-    <name>guacamole-auth-template</name>
+    <name>guacamole-auth-credentials-profiles</name>
     <url>http://guacamole.apache.org/</url>
 
     <properties>
